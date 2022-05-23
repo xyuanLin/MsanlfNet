@@ -13,4 +13,4 @@ The codes for the letter,“”
 In this letter, the datasets used are the ISPRS [Vaihingen](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) and [Potsdam](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) datasets.
 
 ## Train
-Run `python`
+Run `python train.py`
