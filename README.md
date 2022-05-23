@@ -14,3 +14,9 @@ In this letter, the datasets used are the ISPRS [Vaihingen](https://www.isprs.or
 
 ## Train
 Run `python train.py` to train the default MsanlfNet.
+
+## Test
+Run `python test.py` to test the trained MsanlfNet.
+
+## visual
+Run `python visual.py` to visualize the segmentation results
