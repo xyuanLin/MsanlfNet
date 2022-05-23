@@ -9,3 +9,5 @@ The codes for the letter,“”
 
 # Usage
 ## Data
+
+In this letter, the datasets used are the ISPRS Vaihingen and Potsdam datasets.
