@@ -10,7 +10,7 @@ The codes for the Paper,“”
 # Usage
 ## Data
 
-In this letter, the datasets used are the ISPRS [Vaihingen](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) and [Potsdam](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) datasets. The processed data can be downloaded [here](https://pan.baidu.com/s/1JtIti3bgTqTebrC_Pky0Pg) 7vl6
+In this letter, the datasets used are the ISPRS [Vaihingen](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) and [Potsdam](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) datasets. The processed data can be downloaded [here](https://pan.baidu.com/s/1JtIti3bgTqTebrC_Pky0Pg), the extraction code is 7vl6.
 
 ## Train
 Run `python train.py` to train the default MsanlfNet.
